@@ -1,4 +1,4 @@
-# VirtueNexaweek1
+# VirtuNexaweek1
 
 # Expense Manager + Palindrome Checker App
 
